@@ -19,7 +19,7 @@ p,
 a {
   font-family: 'Roboto', Verdana, Helvetica, sans-serif;
   font-weight: 300;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 strong {
@@ -30,7 +30,7 @@ strong {
 h2 {
   margin: 0;
   font-family: 'Roboto', Verdana, Helvetica, sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 28px;
   color: #F26430;
 }
@@ -45,7 +45,7 @@ h2 {
   padding-top: 20px;
   margin: 0;
   font-family: 'Roboto', Verdana, Helvetica, sans-serif;
-  font-size: 32px;
+  font-size: 40px;
   font-weight: 400;
 }
 
