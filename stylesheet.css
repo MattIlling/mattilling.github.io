@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
 
 a {
   color: #f26430;
@@ -46,7 +46,7 @@ h2 {
   margin: 0;
   font-family: 'Roboto', Verdana, Helvetica, sans-serif;
   font-size: 32px;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .one {
