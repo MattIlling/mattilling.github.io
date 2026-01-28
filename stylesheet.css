@@ -18,18 +18,19 @@ tr,
 p,
 a {
   font-family: 'Roboto', Verdana, Helvetica, sans-serif;
-  font-size: 16px;
+  font-weight: 300;
+  font-size: 18px;
 }
 
 strong {
   font-family: 'Roboto', Verdana, Helvetica, sans-serif;
-  font-size: 16px;
+  font-weight: 400; /* Roboto Light looks bad for bold */
 }
 
 h2 {
   margin: 0;
-  font-weight: normal;
   font-family: 'Roboto', Verdana, Helvetica, sans-serif;
+  font-weight: 300;
   font-size: 28px;
   color: #F26430;
 }
@@ -37,7 +38,7 @@ h2 {
 .papertitle {
   font-family: 'Roboto', Verdana, Helvetica, sans-serif;
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 .name {
@@ -45,6 +46,7 @@ h2 {
   margin: 0;
   font-family: 'Roboto', Verdana, Helvetica, sans-serif;
   font-size: 32px;
+  font-weight: 300;
 }
 
 .one {
